@@ -1,6 +1,6 @@
-# <a href="https://www.linkedin.com/in/joshmadakor/">Josh Madakor</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/jake-warren-4970a3247/">Jake Warren</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Cybersecurity is more than a field to me—it's a constantly evolving puzzle that I love solving through hands-on projects. From identifying vulnerabilities to enhancing threat detection, each project sharpens my skills and deepens my understanding of security operations. Check them out to see how I approach real-world security challenges!
 
 
 ## ⚠️ Vulnerability Management Projects
@@ -16,15 +16,16 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="jimey | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="jimey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jimey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jimey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/jake-warren-4970a3247)  
 
-[twitter]: https://twitter.com/jimey
-[youtube]: https://www.youtube.com/c/jimey
-[instagram]: https://www.instagram.com/jimey
-[linkedin]: https://linkedin.com/in/jimey
+<!-- Instagram Icon with custom size and background color for better contrast -->
+<a href="https://www.instagram.com/j.dub8">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px" style="border-radius:50%; border:2px solid #E4405F; background-color:white; padding:3px;" />
+</a>
+
+
+
+
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
