@@ -13,20 +13,18 @@ Cybersecurity is more than a field to me—it's a constantly evolving puzzle tha
 
 <hr/>
 
-## 🤳 Connect With Me
 
 
 
 ## 🤳 Connect With Me  
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg) LinkedIn](https://www.linkedin.com/in/jake-warren-4970a3247)  
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg) Instagram](https://www.instagram.com/j.dub8)  
+[<img align="left" alt="Jake| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jake | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]"
 
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
+
+[instagram]: https://www.instagram.com/j.dub8?igsh=N3p5dGRxM21kc2d5&utm_source=qr
+[linkedin]: https://linkedin.com/in/jake-warren-4970a3247| LinkedIn
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
