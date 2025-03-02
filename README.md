@@ -17,8 +17,11 @@ Cybersecurity is more than a field to me—it's a constantly evolving puzzle tha
 
 
 
-[<img align="left" alt="www.linkedin.com/in/jake-warren-4970a3247| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="https://www.instagram.com/j.dub8?igsh=N3p5dGRxM21kc2d5&utm_source=qr| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🤳 Connect With Me  
+
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg) LinkedIn](https://www.linkedin.com/in/jake-warren-4970a3247)  
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg) Instagram](https://www.instagram.com/j.dub8)  
+
 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
