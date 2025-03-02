@@ -18,10 +18,7 @@ Cybersecurity is more than a field to me—it's a constantly evolving puzzle tha
 
 [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/jake-warren-4970a3247)  
 
-<!-- Instagram Icon with custom size and background color for better contrast -->
-<a href="https://www.instagram.com/j.dub8">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px" style="border-radius:50%; border:2px solid #E4405F; background-color:white; padding:3px;" />
-</a>
+
 
 
 
