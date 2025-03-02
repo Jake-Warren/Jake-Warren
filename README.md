@@ -1,6 +1,7 @@
-# <a href="https://www.linkedin.com/in/jake-warren-4970a3247/">Jake Warren</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/joshmadakor/">Josh Madakor</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Cybersecurity is more than a field to me—it's a constantly evolving puzzle that I love solving through hands-on projects. From identifying vulnerabilities to enhancing threat detection, each project sharpens my skills and deepens my understanding of security operations. Check them out to see how I approach real-world security challenges!
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+
 
 ## ⚠️ Vulnerability Management Projects
 
@@ -13,18 +14,15 @@ Cybersecurity is more than a field to me—it's a constantly evolving puzzle tha
 
 <hr/>
 
+## 🤳 Connect With Me
 
 
-
-## 🤳 Connect With Me  
-
-[<img align="left" alt="Jake| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jake | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]"
-
+[<img align="left" alt="Jake | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jake | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [instagram]: https://www.instagram.com/j.dub8?igsh=N3p5dGRxM21kc2d5&utm_source=qr
-[linkedin]: https://linkedin.com/in/jake-warren-4970a3247| LinkedIn
+[linkedin]: https://linkedin.com/in/jake-warren-4970a3247
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
