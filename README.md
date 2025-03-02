@@ -21,8 +21,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="Jake | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/j.dub8?igsh=N3p5dGRxM21kc2d5&utm_source=qr
-[linkedin]: https://linkedin.com/in/jake-warren-4970a3247
+[instagram]: https://www.instagram.com/j.dub8
+[linkedin]: https://linkedin.com/in/jake-warren
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
