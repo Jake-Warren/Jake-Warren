@@ -6,7 +6,7 @@ Cybersecurity is more than a field to me—it's a constantly evolving puzzle tha
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Jake-Warren/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Jake-Warren/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
