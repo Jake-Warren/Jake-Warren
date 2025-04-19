@@ -11,7 +11,7 @@ Cybersecurity is more than a field to me—it's a constantly evolving puzzle tha
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Jake-Warren/threat-hunting-scenario-tor)**
-- **[Creating a Live SOC / Honeynet in Azure](https://github.com/Jake-Warren/Azure-SOC)**
+- **[Creating a Live SOC / Honeynet in Azure](https://github.com/Jake-Warren/Honeynet-Project)**
 
 <hr/>
 
